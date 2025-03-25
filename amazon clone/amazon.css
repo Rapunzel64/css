@@ -18,7 +18,7 @@
     
 }
 .logo1 {
-    background-image: url(amazon\ logo.png);
+    background-image: url("amazonlogo.png");
     background-size: cover;
     height: 45px;
     width: 100%;
@@ -259,7 +259,7 @@ ul a:hover {
     align-items: center;
 }
 .logo2 {
-    background-image: url(amazon\ logo.png);
+    background-image: url(amazonlogo.png);
     background-size: cover;
     height: 46px;
     width: 100px;
